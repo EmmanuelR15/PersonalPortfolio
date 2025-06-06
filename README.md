@@ -69,7 +69,7 @@ git clone https://github.com/EmmanuelR15/PersonalPortfolio.git
 
 ## 🌐 Live Demo
 
-Visit the live site: [emmanuelruiz-dev.netlify.app](https://emmanuelruiz-dev.netlify.app)
+Visit the live site: [emmanuelruiz-dev.netlify.app](https://emmanuelruizdev.netlify.app)
 
 ## 📫 Contact
 
